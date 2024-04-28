@@ -4,7 +4,6 @@
 ### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
 
 > I am a hardworking individual who is dedicated towards his goals.
-<br />
 
 <div>
         <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
