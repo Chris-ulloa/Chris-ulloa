@@ -1,7 +1,7 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
+### Hi there 👋 I am Christopher Ulloa aka Chris Allem
 
 > I am a hardworking individual who is dedicated towards his goals.
 
@@ -9,11 +9,11 @@
         <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+        <p>• 📫 How to reach me: <b>cchristopher.uzm@gmail.com</b></p>
 </div><br>
 
  
-<br><br><br><br>
+<br><br><br>
 ------
 
 
@@ -45,7 +45,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 
-___
+------
 
 <div>
   <h3>📱 Social Medias:</h3><br>
