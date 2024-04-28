@@ -72,16 +72,9 @@
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
 </p>
 <br>
-
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
- </a>
+  Made with :heart: &nbsp;using GitHub Markdown by Aadi
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
-
-[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
-
-------
-Credit: [thenuka99](https://github.com/thenuka99)
-12/01/2023
