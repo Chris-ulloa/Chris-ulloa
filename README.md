@@ -6,8 +6,7 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-<div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
+<div>
         <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
