@@ -9,8 +9,8 @@
         <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>cchristopher.uzm@gmail.com</b></p>
-</div><br>
+        <p>• 📫 How to reach me: <b>christopher.uzm@gmail.com</b></p>
+</div>
 
  
 <br><br><br>
@@ -29,7 +29,7 @@
 
 
 ------
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div>
   <h3>🧰 Languages and tools I'm learning until now:</h3><br>
