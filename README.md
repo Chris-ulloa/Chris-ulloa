@@ -6,13 +6,15 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **janithherath2@gmail.com**
-- 📝 I studied at Ananda College 
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="left">
+    <h3>👨🏽‍💻 About me:</h3>
+        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
+        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+</div><br>
+
+ 
 <br><br><br><br>
 ------
 
