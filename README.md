@@ -34,6 +34,7 @@
 
 
 ------
+<br>
 
 <div>
   <h3>🧰 Languages and tools I'm learning until now:</h3><br>
@@ -51,7 +52,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
-
+<br>
 ------
 
 <div>
@@ -60,7 +61,7 @@
     <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
  
-<br><br><br><br>
+<br><br>
 ------
  
 <br><br>
