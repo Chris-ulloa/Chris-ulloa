@@ -44,15 +44,15 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Typescript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind.JS"></a>
- <br>
-    <a href="https://"><img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop"></a>
-    <a href="https://"><img src="https://aleen42.github.io/badges/src/illustrator.svg" alt="illustrator"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"></a>
+
  <div>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
+     <a href="https://"><img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop"></a>
+    <a href="https://"><img src="https://aleen42.github.io/badges/src/illustrator.svg" alt="illustrator"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"></a>
 </div>
 <br>
 ------
