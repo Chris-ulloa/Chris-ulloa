@@ -67,11 +67,6 @@
 <br><br>
 
 <p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-<p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown by Christopher
   <br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
