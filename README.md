@@ -60,7 +60,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Chris-ulloa/Chris-ulloa/output/snake.svg" alt="Snake animation" />
 
 <br><br>
 ------
